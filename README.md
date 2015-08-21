@@ -3,4 +3,4 @@ Site sobre Acessibilidade desenvolvido como projeto de TCC
 
 Para visualizar, acesse:
 
-<a href="http://www.codificando-para-todos.github.io">Codificando-para-Todos</a>
+<a target="_blank" href="http://codificando-para-todos.github.io">Codificando-Para-Todos</a>
